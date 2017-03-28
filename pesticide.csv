@@ -7,7 +7,7 @@ Chlorothalonil,四氯異苯腈,大漿果類,0.5,殺菌劑
 Chlorothalonil,四氯異苯腈,其他小葉菜類(十字花科小葉菜類除外),2.0,殺菌劑
 Chlorothalonil,四氯異苯腈,其他小漿果類(草莓、藍莓除外),0.7,殺菌劑
 Chlorothalonil,四氯異苯腈,毛豆,5.0,殺菌劑
-Chlorothalonil,四氯異苯腈,瓜果類,1.5,殺菌劑
+Chlorothalonil,四氯異苯腈,瓜果類,1.0,殺菌劑
 Chlorothalonil,四氯異苯腈,瓜菜類,0.5,殺菌劑
 Chlorothalonil,四氯異苯腈,艾草,2.0,殺菌劑
 Chlorothalonil,四氯異苯腈,杏仁,0.05,殺菌劑
@@ -51,8 +51,8 @@ Dimethomorph,達滅芬,小黃瓜,1.0,殺菌劑
 Dimethomorph,達滅芬,其他小漿果類(草莓、葡萄及蓮霧除外),1.0,殺菌劑
 Dimethomorph,達滅芬,木瓜,1.0,殺菌劑
 Dimethomorph,達滅芬,牛蒡,0.05,殺菌劑
-Dimethomorph,達滅芬,不結球萵苣,6.0,殺菌劑
-Dimethomorph,達滅芬,半結球萵苣,6.0,殺菌劑
+Dimethomorph,達滅芬,不結球萵苣,10,殺菌劑
+Dimethomorph,達滅芬,半結球萵苣,10,殺菌劑
 Dimethomorph,達滅芬,白鳳菜,2.5,殺菌劑
 Dimethomorph,達滅芬,瓜果類,1.0,殺菌劑
 Dimethomorph,達滅芬,瓜菜類,1.0,殺菌劑
@@ -85,7 +85,7 @@ Dimethomorph,達滅芬,球莖甘藍,0.05,殺菌劑
 Dimethomorph,達滅芬,甜椒,1.0,殺菌劑
 Dimethomorph,達滅芬,莧菜,2.5,殺菌劑
 Dimethomorph,達滅芬,朝鮮薊,2.5,殺菌劑
-Dimethomorph,達滅芬,結球萵苣,2.5,殺菌劑
+Dimethomorph,達滅芬,結球萵苣,10,殺菌劑
 Dimethomorph,達滅芬,番茄,1.5,殺菌劑
 Dimethomorph,達滅芬,紫蘇(乾),0.5,殺菌劑
 Dimethomorph,達滅芬,菠菜,2.5,殺菌劑
@@ -148,6 +148,7 @@ Dinotefuran,達特南,南瓜,1.0,殺蟲劑
 Dinotefuran,達特南,扁豆,0.5,殺蟲劑
 Dinotefuran,達特南,扁蒲,1.0,殺蟲劑
 Dinotefuran,達特南,枸杞,0.5,殺蟲劑
+Dinotefuran,達特南,柑桔類,1.0,殺蟲劑
 Dinotefuran,達特南,柿,1.0,殺蟲劑
 Dinotefuran,達特南,洋香瓜,1.0,殺蟲劑
 Dinotefuran,達特南,洋蔥,0.1,殺蟲劑
@@ -163,6 +164,7 @@ Dinotefuran,達特南,桑椹,0.5,殺蟲劑
 Dinotefuran,達特南,桃,1.0,殺蟲劑
 Dinotefuran,達特南,草莓,1.5,殺蟲劑
 Dinotefuran,達特南,茶,10,殺蟲劑
+Dinotefuran,達特南,茶籽,0.2,殺蟲劑
 Dinotefuran,達特南,茼蒿,2.0,殺蟲劑
 Dinotefuran,達特南,豇豆(鮮),0.5,殺蟲劑
 Dinotefuran,達特南,隼人瓜,1.0,殺蟲劑
@@ -205,19 +207,29 @@ Dinotefuran,達特南,蘋果,1.0,殺蟲劑
 Dinotefuran,達特南,櫻桃,1.0,殺蟲劑
 Dinotefuran,達特南,蘿蔔,0.05,殺蟲劑
 Dinotefuran,達特南,蠶豆(鮮),0.5,殺蟲劑
+Fluensulfone,氟速芬,枸杞,0.5,殺線蟲劑
+Fluensulfone,氟速芬,茄子,0.5,殺線蟲劑
+Fluensulfone,氟速芬,香瓜茄,0.5,殺線蟲劑
+Fluensulfone,氟速芬,甜椒,0.5,殺線蟲劑
+Fluensulfone,氟速芬,番茄,0.5,殺線蟲劑
+Fluensulfone,氟速芬,辣椒,0.5,殺線蟲劑
+Fluensulfone,氟速芬,樹番茄,0.5,殺線蟲劑
 Fluopicolide,氟比來,十字花科小葉菜類,3.0,殺菌劑
 Fluopicolide,氟比來,十字花科包葉菜類,3.0,殺菌劑
 Fluopicolide,氟比來,小黃瓜,0.5,殺菌劑
 Fluopicolide,氟比來,山茼蒿,3.0,殺菌劑
 Fluopicolide,氟比來,不結球萵苣,3.0,殺菌劑
+Fluopicolide,氟比來,木瓜,2.0,殺菌劑
 Fluopicolide,氟比來,牛蒡,0.02,殺菌劑
 Fluopicolide,氟比來,冬瓜,0.5,殺菌劑
 Fluopicolide,氟比來,半結球萵苣,3.0,殺菌劑
 Fluopicolide,氟比來,瓜果類,0.5,殺菌劑
 Fluopicolide,氟比來,瓜菜類,0.5,殺菌劑
 Fluopicolide,氟比來,白鳳菜,3.0,殺菌劑
+Fluopicolide,氟比來,百香果,2.0,殺菌劑
 Fluopicolide,氟比來,西瓜,0.5,殺菌劑
 Fluopicolide,氟比來,芋頭,0.02,殺菌劑
+Fluopicolide,氟比來,芒果,2.0,殺菌劑
 Fluopicolide,氟比來,豆薯,0.02,殺菌劑
 Fluopicolide,氟比來,果菜類,1.0,殺菌劑
 Fluopicolide,氟比來,狗尾草根,0.02,殺菌劑
@@ -232,6 +244,7 @@ Fluopicolide,氟比來,洋牛蒡葉,3.0,殺菌劑
 Fluopicolide,氟比來,洋香瓜,0.5,殺菌劑
 Fluopicolide,氟比來,洋蔥,0.02,殺菌劑
 Fluopicolide,氟比來,洛神葵,1.0,殺菌劑
+Fluopicolide,氟比來,紅毛丹,2.0,殺菌劑
 Fluopicolide,氟比來,紅鳳菜,3.0,殺菌劑
 Fluopicolide,氟比來,胡瓜,0.5,殺菌劑
 Fluopicolide,氟比來,苦瓜,0.5,殺菌劑
@@ -246,12 +259,16 @@ Fluopicolide,氟比來,夏南瓜,0.5,殺菌劑
 Fluopicolide,氟比來,紅蔥頭,0.02,殺菌劑
 Fluopicolide,氟比來,茼蒿,3.0,殺菌劑
 Fluopicolide,氟比來,草莓,2.0,殺菌劑
+Fluopicolide,氟比來,荔枝,2.0,殺菌劑
 Fluopicolide,氟比來,隼人瓜,0.5,殺菌劑
 Fluopicolide,氟比來,馬鈴薯,0.02,殺菌劑
 Fluopicolide,氟比來,甜椒,1.0,殺菌劑
 Fluopicolide,氟比來,甜菜根,0.02,殺菌劑
 Fluopicolide,氟比來,朝鮮薊,3.0,殺菌劑
+Fluopicolide,氟比來,無花果,2.0,殺菌劑
+Fluopicolide,氟比來,番石榴,2.0,殺菌劑
 Fluopicolide,氟比來,番茄,1.0,殺菌劑
+Fluopicolide,氟比來,番荔枝,2.0,殺菌劑
 Fluopicolide,氟比來,結球萵苣,3.0,殺菌劑
 Fluopicolide,氟比來,絲瓜,0.5,殺菌劑
 Fluopicolide,氟比來,菠菜,3.0,殺菌劑
@@ -264,8 +281,11 @@ Fluopicolide,氟比來,蒜頭,0.02,殺菌劑
 Fluopicolide,氟比來,辣椒,1.0,殺菌劑
 Fluopicolide,氟比來,辣椒(乾),7.0,殺菌劑
 Fluopicolide,氟比來,酸漿,1.0,殺菌劑
+Fluopicolide,氟比來,鳳梨,2.0,殺菌劑
+Fluopicolide,氟比來,蓮霧,2.0,殺菌劑
 Fluopicolide,氟比來,樹番茄,1.0,殺菌劑
 Fluopicolide,氟比來,蕎頭,0.02,殺菌劑
+Fluopicolide,氟比來,龍眼,2.0,殺菌劑
 Fluopicolide,氟比來,蕗蕎,3.0,殺菌劑
 Fluopicolide,氟比來,薑,0.02,殺菌劑
 Fluopicolide,氟比來,闊包菊,3.0,殺菌劑
@@ -286,6 +306,7 @@ Fluopyram,氟派瑞,胡瓜,0.5,殺菌劑
 Fluopyram,氟派瑞,胡蘿蔔,0.4,殺菌劑
 Fluopyram,氟派瑞,香蕉,0.8,殺菌劑
 Fluopyram,氟派瑞,桃,0.4,殺菌劑
+Fluopyram,氟派瑞,茶類,6.0,殺菌劑
 Fluopyram,氟派瑞,草莓,0.4,殺菌劑
 Fluopyram,氟派瑞,荔枝,0.8,殺菌劑
 Fluopyram,氟派瑞,馬鈴薯,0.03,殺菌劑
@@ -304,24 +325,34 @@ Fluopyram,氟派瑞,酪梨,0.8,殺菌劑
 Fluopyram,氟派瑞,蓮霧,2.0,殺菌劑
 Fluopyram,氟派瑞,龍眼,0.8,殺菌劑
 Fluopyram,氟派瑞,櫻桃,0.7,殺菌劑
+Fluxapyroxad,氟克殺,十字花科包葉菜類,2.0,殺菌劑
 Fluxapyroxad,氟克殺,大豆,0.15,殺菌劑
 Fluxapyroxad,氟克殺,大麥,2.0,殺菌劑
 Fluxapyroxad,氟克殺,小麥,0.3,殺菌劑
+Fluxapyroxad,氟克殺,山葵,0.03,殺菌劑
 Fluxapyroxad,氟克殺,毛豆,1.5,殺菌劑
+Fluxapyroxad,氟克殺,牛蒡,0.03,殺菌劑
 Fluxapyroxad,氟克殺,玉米,0.01,殺菌劑
+Fluxapyroxad,氟克殺,瓜果類,0.5,殺菌劑
+Fluxapyroxad,氟克殺,瓜菜類,0.5,殺菌劑
 Fluxapyroxad,氟克殺,印度棗,2.0,殺菌劑
 Fluxapyroxad,氟克殺,米類,0.5,殺菌劑
 Fluxapyroxad,氟克殺,李,2.0,殺菌劑
 Fluxapyroxad,氟克殺,杏,2.0,殺菌劑
 Fluxapyroxad,氟克殺,杏仁,0.05,殺菌劑
 Fluxapyroxad,氟克殺,其他豆菜類(毛豆除外),2.0,殺菌劑
+Fluxapyroxad,氟克殺,豆薯,0.03,殺菌劑
 Fluxapyroxad,氟克殺,果菜類,0.6,殺菌劑
 Fluxapyroxad,氟克殺,油桃,2.0,殺菌劑
+Fluxapyroxad,氟克殺,狗尾草根,0.03,殺菌劑
+Fluxapyroxad,氟克殺,洋蔥,0.03,殺菌劑
 Fluxapyroxad,氟克殺,美洲胡桃,0.06,殺菌劑
+Fluxapyroxad,氟克殺,胡蘿蔔,0.03,殺菌劑
 Fluxapyroxad,氟克殺,香蕉,1.0,殺菌劑
 Fluxapyroxad,氟克殺,落花生,0.01,殺菌劑
 Fluxapyroxad,氟克殺,小扁豆(乾),0.4,殺菌劑
 Fluxapyroxad,氟克殺,桃,2.0,殺菌劑
+Fluxapyroxad,氟克殺,草莓,2.0,殺菌劑
 Fluxapyroxad,氟克殺,馬鈴薯,0.03,殺菌劑
 Fluxapyroxad,氟克殺,其他乾豆類(大豆、落花生、小扁豆、棉籽、豌豆除外),0.3,殺菌劑
 Fluxapyroxad,氟克殺,梅,2.0,殺菌劑
@@ -329,12 +360,18 @@ Fluxapyroxad,氟克殺,其他梨果類(李、杏、油桃、桃、梅、櫻桃�
 Fluxapyroxad,氟克殺,甜菜根,0.15,殺菌劑
 Fluxapyroxad,氟克殺,棉籽,0.01,殺菌劑
 Fluxapyroxad,氟克殺,番茄,0.7,殺菌劑
+Fluxapyroxad,氟克殺,結球萵苣,2.0,殺菌劑
 Fluxapyroxad,氟克殺,黑麥,0.3,殺菌劑
+Fluxapyroxad,氟克殺,蒜頭,0.03,殺菌劑
 Fluxapyroxad,氟克殺,辣椒(乾),6.0,殺菌劑
 Fluxapyroxad,氟克殺,豌豆(乾),0.4,殺菌劑
 Fluxapyroxad,氟克殺,燕麥,2.0,殺菌劑
+Fluxapyroxad,氟克殺,蕪菁,0.03,殺菌劑
+Fluxapyroxad,氟克殺,闊葉大豆根,0.03,殺菌劑
 Fluxapyroxad,氟克殺,藍莓,5.0,殺菌劑
+Fluxapyroxad,氟克殺,蘆筍,0.03,殺菌劑
 Fluxapyroxad,氟克殺,櫻桃,2.0,殺菌劑
+Fluxapyroxad,氟克殺,蘿蔔,0.03,殺菌劑
 Glufosinate-ammonium,固殺草,大漿果類,0.05,殺草劑
 Glufosinate-ammonium,固殺草,小黃瓜,0.05,殺草劑
 Glufosinate-ammonium,固殺草,毛豆,0.2,殺草劑
@@ -342,30 +379,42 @@ Glufosinate-ammonium,固殺草,包葉菜類,0.05,殺草劑
 Glufosinate-ammonium,固殺草,玉米,0.1,殺草劑
 Glufosinate-ammonium,固殺草,瓜果類,0.05,殺草劑
 Glufosinate-ammonium,固殺草,印度棗,0.1,殺草劑
+Glufosinate-ammonium,固殺草,芒果,0.05,殺草劑
 Glufosinate-ammonium,固殺草,咖啡豆,0.1,殺草劑
 Glufosinate-ammonium,固殺草,油菜籽,1.5,殺草劑
 Glufosinate-ammonium,固殺草,金針,0.05,殺草劑
 Glufosinate-ammonium,固殺草,青蔥,0.05,殺草劑
 Glufosinate-ammonium,固殺草,扁蒲,0.05,殺草劑
+Glufosinate-ammonium,固殺草,枸杞,0.05,殺草劑
+Glufosinate-ammonium,固殺草,枸杞葉,0.05,殺草劑
 Glufosinate-ammonium,固殺草,柑桔類,0.1,殺草劑
 Glufosinate-ammonium,固殺草,洋香瓜,0.05,殺草劑
 Glufosinate-ammonium,固殺草,洋蔥,0.05,殺草劑
 Glufosinate-ammonium,固殺草,胡瓜,0.05,殺草劑
 Glufosinate-ammonium,固殺草,胡蘿蔔,0.05,殺草劑
 Glufosinate-ammonium,固殺草,苦瓜,0.05,殺草劑
+Glufosinate-ammonium,固殺草,茄子,0.05,殺草劑
+Glufosinate-ammonium,固殺草,香瓜茄,0.05,殺草劑
+Glufosinate-ammonium,固殺草,荔枝,0.05,殺草劑
 Glufosinate-ammonium,固殺草,馬鈴薯,0.1,殺草劑
 Glufosinate-ammonium,固殺草,堅果類,0.1,殺草劑
 Glufosinate-ammonium,固殺草,柿,0.05,殺草劑
 Glufosinate-ammonium,固殺草,梨,0.1,殺草劑
 Glufosinate-ammonium,固殺草,其他梨果類(柿除外),0.1,殺草劑
 Glufosinate-ammonium,固殺草,甜椒,0.05,殺草劑
+Glufosinate-ammonium,固殺草,番茄,0.05,殺草劑
 Glufosinate-ammonium,固殺草,絲瓜,0.05,殺草劑
 Glufosinate-ammonium,固殺草,菜籽原油,0.05,殺草劑
 Glufosinate-ammonium,固殺草,大豆,2.0,殺草劑
 Glufosinate-ammonium,固殺草,碧玉筍,0.05,殺草劑
+Glufosinate-ammonium,固殺草,辣椒,0.05,殺草劑
 Glufosinate-ammonium,固殺草,蓮霧,0.05,殺草劑
+Glufosinate-ammonium,固殺草,樹番茄,0.05,殺草劑
+Glufosinate-ammonium,固殺草,龍眼,0.05,殺草劑
 Glufosinate-ammonium,固殺草,蘆筍,0.4,殺草劑
 Glufosinate-ammonium,固殺草,其他小漿果類(蓮霧除外),0.1,殺草劑
+Hymexazol,殺紋寧,瓜果類,0.5,殺菌劑
+Hymexazol,殺紋寧,瓜菜類,0.5,殺菌劑
 Hymexazol,殺紋寧,米類,1.0,殺菌劑
 Imidacloprid,益達胺,小麥麵粉,0.03,殺蟲劑
 Imidacloprid,益達胺,小黃瓜,0.5,殺蟲劑
@@ -375,6 +424,7 @@ Imidacloprid,益達胺,山藥,0.5,殺蟲劑
 Imidacloprid,益達胺,木瓜,0.5,殺蟲劑
 Imidacloprid,益達胺,毛豆,3.0,殺蟲劑
 Imidacloprid,益達胺,不結球萵苣,3.5,殺蟲劑
+Imidacloprid,益達胺,火龍果,0.5,殺蟲劑
 Imidacloprid,益達胺,牛蒡,0.5,殺蟲劑
 Imidacloprid,益達胺,冬瓜,0.5,殺蟲劑
 Imidacloprid,益達胺,其他包葉菜類(結球萵苣除外),1.0,殺蟲劑
@@ -466,12 +516,15 @@ Indoxacarb,因得克,李,0.5,殺蟲劑
 Indoxacarb,因得克,杏,0.5,殺蟲劑
 Indoxacarb,因得克,油桃,0.5,殺蟲劑
 Indoxacarb,因得克,青蔥,2.0,殺蟲劑
+Indoxacarb,因得克,洋蔥,0.05,殺蟲劑
 Indoxacarb,因得克,紅豆,0.01,殺蟲劑
+Indoxacarb,因得克,紅蔥頭,0.05,殺蟲劑
 Indoxacarb,因得克,茄子,0.5,殺蟲劑
 Indoxacarb,因得克,韭菜,2.0,殺蟲劑
 Indoxacarb,因得克,韭菜花,2.0,殺蟲劑
 Indoxacarb,因得克,韭黃,2.0,殺蟲劑
 Indoxacarb,因得克,桃,0.5,殺蟲劑
+Indoxacarb,因得克,珠蔥,2.0,殺蟲劑
 Indoxacarb,因得克,馬鈴薯,0.02,殺蟲劑
 Indoxacarb,因得克,梅,0.5,殺蟲劑
 Indoxacarb,因得克,梨,0.2,殺蟲劑
@@ -481,8 +534,11 @@ Indoxacarb,因得克,番茄,0.5,殺蟲劑
 Indoxacarb,因得克,大豆,0.05,殺蟲劑
 Indoxacarb,因得克,綠豆,0.01,殺蟲劑
 Indoxacarb,因得克,蒜,2.0,殺蟲劑
+Indoxacarb,因得克,蒜頭,0.05,殺蟲劑
 Indoxacarb,因得克,辣椒,0.3,殺蟲劑
 Indoxacarb,因得克,蔓越莓,1.0,殺蟲劑
+Indoxacarb,因得克,蕎頭,0.05,殺蟲劑
+Indoxacarb,因得克,蕗蕎,2.0,殺蟲劑
 Indoxacarb,因得克,藍莓,1.0,殺蟲劑
 Indoxacarb,因得克,蘋果,0.5,殺蟲劑
 Indoxacarb,因得克,櫻桃,0.5,殺蟲劑
@@ -491,6 +547,7 @@ Indoxacarb,因得克,其他(穀類)*,0.01*,殺蟲劑
 Indoxacarb,因得克,其他(茶類)*,0.01*,殺蟲劑
 Kasugamycin,嘉賜黴素,米類,0.2,殺菌劑
 Kasugamycin,嘉賜黴素,芋頭,0.03,殺菌劑
+Kasugamycin,嘉賜黴素,青蔥,0.2,殺菌劑
 Kasugamycin,嘉賜黴素,核果類,0.5,殺菌劑
 Kasugamycin,嘉賜黴素,茶,0.04,殺菌劑
 Propamocarb hydrochloride,普拔克,十字花科小葉菜類,10.0,殺菌劑
@@ -498,6 +555,7 @@ Propamocarb hydrochloride,普拔克,十字花科包葉菜類,5.0,殺菌劑
 Propamocarb hydrochloride,普拔克,小黃瓜,1.0,殺菌劑
 Propamocarb hydrochloride,普拔克,山茼蒿,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,不結球萵苣,10.0,殺菌劑
+Propamocarb hydrochloride,普拔克,木瓜,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,牛蒡,0.3,殺菌劑
 Propamocarb hydrochloride,普拔克,冬瓜,1.0,殺菌劑
 Propamocarb hydrochloride,普拔克,半結球萵苣,10.0,殺菌劑
@@ -506,7 +564,9 @@ Propamocarb hydrochloride,普拔克,瓜菜類,1.0,殺菌劑
 Propamocarb hydrochloride,普拔克,白鳳菜,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,百合花,0.5,殺菌劑
 Propamocarb hydrochloride,普拔克,百合鱗莖,0.3,殺菌劑
+Propamocarb hydrochloride,普拔克,百香果,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,芋頭,0.3,殺菌劑
+Propamocarb hydrochloride,普拔克,芒果,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,豆薯,0.3,殺菌劑
 Propamocarb hydrochloride,普拔克,果菜類,2.0,殺菌劑
 Propamocarb hydrochloride,普拔克,狗尾草根,0.3,殺菌劑
@@ -517,6 +577,7 @@ Propamocarb hydrochloride,普拔克,咸豐草,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,扁蒲,1.0,殺菌劑
 Propamocarb hydrochloride,普拔克,洋牛蒡葉,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,洋蔥,0.3,殺菌劑
+Propamocarb hydrochloride,普拔克,紅毛丹,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,紅鳳菜,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,胡瓜,1.0,殺菌劑
 Propamocarb hydrochloride,普拔克,胡椒,0.2,殺菌劑
@@ -529,10 +590,14 @@ Propamocarb hydrochloride,普拔克,夏南瓜,1.0,殺菌劑
 Propamocarb hydrochloride,普拔克,紅蔥頭,0.3,殺菌劑
 Propamocarb hydrochloride,普拔克,茼蒿,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,草莓,9.0,殺菌劑
+Propamocarb hydrochloride,普拔克,荔枝,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,隼人瓜,1.0,殺菌劑
 Propamocarb hydrochloride,普拔克,馬鈴薯,0.3,殺菌劑
 Propamocarb hydrochloride,普拔克,甜菜根,0.3,殺菌劑
 Propamocarb hydrochloride,普拔克,朝鮮薊,10.0,殺菌劑
+Propamocarb hydrochloride,普拔克,無花果,9.0,殺菌劑
+Propamocarb hydrochloride,普拔克,番石榴,9.0,殺菌劑
+Propamocarb hydrochloride,普拔克,番荔枝,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,結球萵苣,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,絲瓜,1.0,殺菌劑
 Propamocarb hydrochloride,普拔克,菊花,0.5,殺菌劑
@@ -544,6 +609,9 @@ Propamocarb hydrochloride,普拔克,葡萄,9.0,殺菌劑
 Propamocarb hydrochloride,普拔克,碧玉筍,0.3,殺菌劑
 Propamocarb hydrochloride,普拔克,蒜,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,蒜頭,0.3,殺菌劑
+Propamocarb hydrochloride,普拔克,鳳梨,10.0,殺菌劑
+Propamocarb hydrochloride,普拔克,蓮霧,9.0,殺菌劑
+Propamocarb hydrochloride,普拔克,龍眼,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,龍鬚菜,10.0,殺菌劑
 Propamocarb hydrochloride,普拔克,蕎頭,0.3,殺菌劑
 Propamocarb hydrochloride,普拔克,蕗蕎,10.0,殺菌劑
@@ -556,6 +624,7 @@ Propamocarb hydrochloride,普拔克,蘿蔔,1.0,殺菌劑
 Propamocarb hydrochloride,普拔克,其他(蔬果類)*,0.01*,殺菌劑
 Propamocarb hydrochloride,普拔克,其他(穀類)*,0.02*,殺菌劑
 Propamocarb hydrochloride,普拔克,其他(茶類)*,0.05*,殺菌劑
+Proquinazid,普快淨,葡萄,0.5,殺菌劑
 Pyraclostrobin,百克敏,刀豆,0.5,殺菌劑
 Pyraclostrobin,百克敏,其他十字花科小葉菜類(芥菜除外),2.0,殺菌劑
 Pyraclostrobin,百克敏,十字花科包葉菜類,2.0,殺菌劑
@@ -695,6 +764,7 @@ Pyraclostrobin,百克敏,薑,0.4,殺菌劑
 Pyraclostrobin,百克敏,檸檬,1.0,殺菌劑
 Pyraclostrobin,百克敏,藍莓,1.0,殺菌劑
 Pyraclostrobin,百克敏,覆盆子,3.0,殺菌劑
+Pyraclostrobin,百克敏,蘆筍,0.4,殺菌劑
 Pyraclostrobin,百克敏,蘋果,1.0,殺菌劑
 Pyraclostrobin,百克敏,櫻桃,1.0,殺菌劑
 Pyraclostrobin,百克敏,蘿蔔,0.5,殺菌劑
@@ -710,6 +780,8 @@ Spinetoram,賜諾特,小麥,0.05,殺蟲劑
 Spinetoram,賜諾特,山茼蒿,2.0,殺蟲劑
 Spinetoram,賜諾特,山藥,0.02,殺蟲劑
 Spinetoram,賜諾特,不結球萵苣,2.0,殺蟲劑
+Spinetoram,賜諾特,木瓜,0.2,殺蟲劑
+Spinetoram,賜諾特,火龍果,0.2,殺蟲劑
 Spinetoram,賜諾特,牛蒡,0.02,殺蟲劑
 Spinetoram,賜諾特,半結球萵苣,2.0,殺蟲劑
 Spinetoram,賜諾特,玉米,0.05,殺蟲劑
@@ -753,6 +825,7 @@ Spinetoram,賜諾特,韭菜,2.0,殺蟲劑
 Spinetoram,賜諾特,韭菜花,2.0,殺蟲劑
 Spinetoram,賜諾特,韭黃,2.0,殺蟲劑
 Spinetoram,賜諾特,香瓜茄,0.2,殺蟲劑
+Spinetoram,賜諾特,香蕉,0.2,殺蟲劑
 Spinetoram,賜諾特,桃,0.2,殺蟲劑
 Spinetoram,賜諾特,桑椹,0.2,殺蟲劑
 Spinetoram,賜諾特,珠蔥,2.0,殺蟲劑
@@ -766,10 +839,12 @@ Spinetoram,賜諾特,堅果類,0.01,殺蟲劑
 Spinetoram,賜諾特,梅,0.2,殺蟲劑
 Spinetoram,賜諾特,梨,0.2,殺蟲劑
 Spinetoram,賜諾特,梨果類,0.2,殺蟲劑
-Spinetoram,賜諾特,甜椒,0.1,殺蟲劑
+Spinetoram,賜諾特,甜椒,0.2,殺蟲劑
 Spinetoram,賜諾特,甜菜根,0.01,殺蟲劑
 Spinetoram,賜諾特,朝鮮薊,2.0,殺蟲劑
-Spinetoram,賜諾特,番茄,0.1,殺蟲劑
+Spinetoram,賜諾特,番石榴,0.2,殺蟲劑
+Spinetoram,賜諾特,番茄,0.2,殺蟲劑
+Spinetoram,賜諾特,番荔枝,0.2,殺蟲劑
 Spinetoram,賜諾特,結球萵苣,2.0,殺蟲劑
 Spinetoram,賜諾特,菜豆,0.2,殺蟲劑
 Spinetoram,賜諾特,菠菜,2.0,殺蟲劑
@@ -806,19 +881,28 @@ Spinetoram,賜諾特,蘋果,0.2,殺蟲劑
 Spinetoram,賜諾特,櫻桃,0.2,殺蟲劑
 Spiromesifen,賜滅芬,仙草,5.0,殺蟲劑
 Spiromesifen,賜滅芬,艾草,5.0,殺蟲劑
+Spiromesifen,賜滅芬,李,2.0,殺蟲劑
+Spiromesifen,賜滅芬,杏,2.0,殺蟲劑
+Spiromesifen,賜滅芬,枇杷,2.0,殺蟲劑
 Spiromesifen,賜滅芬,枸杞,2.0,殺蟲劑
 Spiromesifen,賜滅芬,茄子,2.0,殺蟲劑
 Spiromesifen,賜滅芬,風茹草,5.0,殺蟲劑
 Spiromesifen,賜滅芬,香瓜茄,2.0,殺蟲劑
+Spiromesifen,賜滅芬,桃,2.0,殺蟲劑
 Spiromesifen,賜滅芬,草莓,1.0,殺蟲劑
+Spiromesifen,賜滅芬,梅,2.0,殺蟲劑
 Spiromesifen,賜滅芬,梨,2.0,殺蟲劑
 Spiromesifen,賜滅芬,甜椒,2.0,殺蟲劑
 Spiromesifen,賜滅芬,甜菊葉,5.0,殺蟲劑
 Spiromesifen,賜滅芬,野茄,2.0,殺蟲劑
+Spiromesifen,賜滅芬,番石榴,2.0,殺蟲劑
 Spiromesifen,賜滅芬,番茄,2.0,殺蟲劑
 Spiromesifen,賜滅芬,菊花,5.0,殺蟲劑
+Spiromesifen,賜滅芬,楊桃,2.0,殺蟲劑
+Spiromesifen,賜滅芬,葡萄,2.0,殺蟲劑
 Spiromesifen,賜滅芬,辣椒,2.0,殺蟲劑
 Spiromesifen,賜滅芬,酸漿,2.0,殺蟲劑
+Spiromesifen,賜滅芬,蓮霧,2.0,殺蟲劑
 Spiromesifen,賜滅芬,樹番茄,2.0,殺蟲劑
 Spiromesifen,賜滅芬,蘋果,2.0,殺蟲劑
 Sulfoxaflor,速殺氟,其他十字花科包葉菜類(花椰菜除外),3.0,殺蟲劑
@@ -827,6 +911,7 @@ Sulfoxaflor,速殺氟,小麥,0.2,殺蟲劑
 Sulfoxaflor,速殺氟,小葉菜類,3.0,殺蟲劑
 Sulfoxaflor,速殺氟,瓜果類,0.5,殺蟲劑
 Sulfoxaflor,速殺氟,瓜菜類,0.5,殺蟲劑
+Sulfoxaflor,速殺氟,芒果,0.5,殺蟲劑
 Sulfoxaflor,速殺氟,果菜類,1.5,殺蟲劑
 Sulfoxaflor,速殺氟,油菜籽,0.15,殺蟲劑
 Sulfoxaflor,速殺氟,花椰菜,0.1,殺蟲劑
@@ -843,16 +928,21 @@ Sulfoxaflor,速殺氟,葡萄,2.0,殺蟲劑
 Sulfoxaflor,速殺氟,葡萄(乾),6.0,殺蟲劑
 Sulfoxaflor,速殺氟,蒜頭,0.01,殺蟲劑
 Sulfoxaflor,速殺氟,辣椒(乾),15,殺蟲劑
+Tebuconazole,得克利,十字花科包葉菜類,0.05,殺菌劑
 Tebuconazole,得克利,小麥,0.05,殺菌劑
 Tebuconazole,得克利,大麥,0.2,殺菌劑
 Tebuconazole,得克利,小黃瓜,0.15,殺菌劑
+Tebuconazole,得克利,山葵,0.4,殺菌劑
+Tebuconazole,得克利,山藥,0.4,殺菌劑
 Tebuconazole,得克利,木瓜,0.5,殺菌劑
 Tebuconazole,得克利,火龍果,0.5,殺菌劑
+Tebuconazole,得克利,牛蒡,0.4,殺菌劑
 Tebuconazole,得克利,可可豆,0.05,殺菌劑
 Tebuconazole,得克利,瓜果類,1.0,殺菌劑
 Tebuconazole,得克利,甘藍,1.0,殺菌劑
 Tebuconazole,得克利,百香果 ,0.5,殺菌劑
 Tebuconazole,得克利,米類,0.05,殺菌劑
+Tebuconazole,得克利,艾草,1.0,殺菌劑
 Tebuconazole,得克利,李,1.0,殺菌劑
 Tebuconazole,得克利,杏,2.0,殺菌劑
 Tebuconazole,得克利,芒果,1.0,殺菌劑
@@ -862,20 +952,27 @@ Tebuconazole,得克利,抱子甘藍,0.3,殺菌劑
 Tebuconazole,得克利,枇杷,0.5,殺菌劑
 Tebuconazole,得克利,油桃,1.0,殺菌劑
 Tebuconazole,得克利,花椰菜,0.05,殺菌劑
+Tebuconazole,得克利,金盞花,1.0,殺菌劑
 Tebuconazole,得克利,青花菜,0.2,殺菌劑
+Tebuconazole,得克利,咸豐草,1.0,殺菌劑
 Tebuconazole,得克利,枸杞,1.0,殺菌劑
 Tebuconazole,得克利,柿,1.0,殺菌劑
+Tebuconazole,得克利,洋甘菊,1.0,殺菌劑
 Tebuconazole,得克利,洋蔥,0.1,殺菌劑
 Tebuconazole,得克利,紅毛丹,0.5,殺菌劑
+Tebuconazole,得克利,紅蔥頭,0.1,殺菌劑
 Tebuconazole,得克利,胡瓜,0.15,殺菌劑
 Tebuconazole,得克利,胡蘿蔔,0.4,殺菌劑
 Tebuconazole,得克利,茄子,1.0,殺菌劑
+Tebuconazole,得克利,風茹草,1.0,殺菌劑
 Tebuconazole,得克利,香瓜茄,1.0,殺菌劑
 Tebuconazole,得克利,香蕉 ,0.2,殺菌劑
 Tebuconazole,得克利,夏南瓜,0.2,殺菌劑
 Tebuconazole,得克利,荔枝,1.0,殺菌劑
 Tebuconazole,得克利,茶,10,殺菌劑
 Tebuconazole,得克利,桃,1.0,殺菌劑
+Tebuconazole,得克利,草莓,2.0,殺菌劑
+Tebuconazole,得克利,馬鈴薯,0.2,殺菌劑
 Tebuconazole,得克利,乾豆類,0.5,殺菌劑
 Tebuconazole,得克利,啤酒花,30,殺菌劑
 Tebuconazole,得克利,堅果類,0.05,殺菌劑
@@ -889,7 +986,10 @@ Tebuconazole,得克利,無花果,2.0,殺菌劑
 Tebuconazole,得克利,番石榴,2.0,殺菌劑
 Tebuconazole,得克利,番茄,0.7,殺菌劑
 Tebuconazole,得克利,番荔枝 ,0.5,殺菌劑
+Tebuconazole,得克利,結球萵苣,0.05,殺菌劑
+Tebuconazole,得克利,菊花,1.0,殺菌劑
 Tebuconazole,得克利,黃金果,0.2,殺菌劑
+Tebuconazole,得克利,黑皮波羅門參,0.4,殺菌劑
 Tebuconazole,得克利,黑麥,0.15,殺菌劑
 Tebuconazole,得克利,奧勒岡草,0.5,殺菌劑
 Tebuconazole,得克利,楊桃,2.0,殺菌劑
@@ -902,13 +1002,17 @@ Tebuconazole,得克利,酸漿,1.0,殺菌劑
 Tebuconazole,得克利,蓮霧,2.0,殺菌劑
 Tebuconazole,得克利,樹番茄,1.0,殺菌劑
 Tebuconazole,得克利,橄欖,0.05,殺菌劑
+Tebuconazole,得克利,蕎頭,0.1,殺菌劑
 Tebuconazole,得克利,龍眼,1.0,殺菌劑
+Tebuconazole,得克利,蟛蜞菊,1.0,殺菌劑
 Tebuconazole,得克利,蘋果,1.0,殺菌劑
 Tebuconazole,得克利,櫻桃,2.0,殺菌劑
+Tebuconazole,得克利,蘿蔔,0.4,殺菌劑
 Tebuconazole,得克利,其他(蔬果類)*,0.01*,殺菌劑
 Tebuconazole,得克利,其他(穀類)*,0.02*,殺菌劑
 Tebuconazole,得克利,其他(茶類)*,0.05*,殺菌劑
 Tecloftalam,克枯爛,米,0.2,殺菌劑
+Tecloftalam,克枯爛,青蔥,1.0,殺菌劑
 Thiamethoxam,賽速安,刀豆,0.02,殺蟲劑
 Thiamethoxam,賽速安,十字花科小葉菜類,2.0,殺蟲劑
 Thiamethoxam,賽速安,十字花科包葉菜類,1.0,殺蟲劑
@@ -979,7 +1083,7 @@ Thiamethoxam,賽速安,朝鮮薊,0.45,殺蟲劑
 Thiamethoxam,賽速安,番石榴,0.2,殺蟲劑
 Thiamethoxam,賽速安,番茄,0.2,殺蟲劑
 Thiamethoxam,賽速安,番荔枝,1.0,殺蟲劑
-Thiamethoxam,賽速安,結球萵苣,2.0,殺蟲劑
+Thiamethoxam,賽速安,結球萵苣,3.0,殺蟲劑
 Thiamethoxam,賽速安,菊花,1.0,殺蟲劑
 Thiamethoxam,賽速安,菜豆,0.02,殺蟲劑
 Thiamethoxam,賽速安,菠菜,2.0,殺蟲劑
@@ -1013,11 +1117,15 @@ Thiamethoxam,賽速安,鷹嘴豆,0.02,殺蟲劑
 Thiamethoxam,賽速安,其他(蔬果類)*,0.01*,殺蟲劑
 Thiamethoxam,賽速安,其他(穀類)*,0.01*,殺蟲劑
 Thiamethoxam,賽速安,其他(茶類)*,0.05*,殺蟲劑
+Trifloxystrobin,三氟敏,十字花科包葉菜類,5.0,殺菌劑
 Trifloxystrobin,三氟敏,大麥,0.1,殺菌劑
 Trifloxystrobin,三氟敏,小麥,0.1,殺菌劑
 Trifloxystrobin,三氟敏,小黃瓜,0.3,殺菌劑
+Trifloxystrobin,三氟敏,山葵,0.1,殺菌劑
+Trifloxystrobin,三氟敏,山藥,0.1,殺菌劑
 Trifloxystrobin,三氟敏,木瓜,0.5,殺菌劑
 Trifloxystrobin,三氟敏,火龍果,0.5,殺菌劑
+Trifloxystrobin,三氟敏,牛蒡,0.1,殺菌劑
 Trifloxystrobin,三氟敏,冬瓜,0.2,殺菌劑
 Trifloxystrobin,三氟敏,玉米,0.02,殺菌劑
 Trifloxystrobin,三氟敏,其他瓜果類(西瓜、洋香瓜、香瓜除外),0.3,殺菌劑
@@ -1028,6 +1136,7 @@ Trifloxystrobin,三氟敏,百合花,0.3,殺菌劑
 Trifloxystrobin,三氟敏,百合鱗莖,0.02,殺菌劑
 Trifloxystrobin,三氟敏,百香果 ,0.5,殺菌劑
 Trifloxystrobin,三氟敏,米,0.2,殺菌劑
+Trifloxystrobin,三氟敏,艾草,0.3,殺菌劑
 Trifloxystrobin,三氟敏,西瓜,0.5,殺菌劑
 Trifloxystrobin,三氟敏,李,3.0,殺菌劑
 Trifloxystrobin,三氟敏,杏,3.0,殺菌劑
@@ -1037,17 +1146,21 @@ Trifloxystrobin,三氟敏,初榨橄欖油,0.9,殺菌劑
 Trifloxystrobin,三氟敏,抱子甘藍,0.1,殺菌劑
 Trifloxystrobin,三氟敏,枇杷,0.5,殺菌劑
 Trifloxystrobin,三氟敏,油桃,3.0,殺菌劑
+Trifloxystrobin,三氟敏,油菜籽,0.05,殺菌劑
 Trifloxystrobin,三氟敏,落花生,0.05,殺菌劑
 Trifloxystrobin,三氟敏,花豆(乾),0.05,殺菌劑
 Trifloxystrobin,三氟敏,芹菜,1.0,殺菌劑
 Trifloxystrobin,三氟敏,金針,0.3,殺菌劑
+Trifloxystrobin,三氟敏,金盞花,0.3,殺菌劑
 Trifloxystrobin,三氟敏,青蔥,2.0,殺菌劑
 Trifloxystrobin,三氟敏,南瓜,0.2,殺菌劑
+Trifloxystrobin,三氟敏,咸豐草,0.3,殺菌劑
 Trifloxystrobin,三氟敏,扁蒲,0.2,殺菌劑
 Trifloxystrobin,三氟敏,枸杞,0.5,殺菌劑
 Trifloxystrobin,三氟敏,柿,0.5,殺菌劑
 Trifloxystrobin,三氟敏,柑桔類,0.5,殺菌劑
 Trifloxystrobin,三氟敏,柚子,0.5,殺菌劑
+Trifloxystrobin,三氟敏,洋甘菊,0.3,殺菌劑
 Trifloxystrobin,三氟敏,洋香瓜,0.5,殺菌劑
 Trifloxystrobin,三氟敏,洋蔥,0.02,殺菌劑
 Trifloxystrobin,三氟敏,紅毛丹,0.5,殺菌劑
@@ -1060,6 +1173,7 @@ Trifloxystrobin,三氟敏,茄子,0.5,殺菌劑
 Trifloxystrobin,三氟敏,韭菜,2.0,殺菌劑
 Trifloxystrobin,三氟敏,韭菜花,2.0,殺菌劑
 Trifloxystrobin,三氟敏,韭黃,2.0,殺菌劑
+Trifloxystrobin,三氟敏,風茹草,0.3,殺菌劑
 Trifloxystrobin,三氟敏,香瓜,0.5,殺菌劑
 Trifloxystrobin,三氟敏,香瓜茄,0.5,殺菌劑
 Trifloxystrobin,三氟敏,香蕉,0.5,殺菌劑
@@ -1067,6 +1181,8 @@ Trifloxystrobin,三氟敏,夏南瓜,0.2,殺菌劑
 Trifloxystrobin,三氟敏,桃,3.0,殺菌劑
 Trifloxystrobin,三氟敏,紅蔥頭,0.02,殺菌劑
 Trifloxystrobin,三氟敏,珠蔥,2.0,殺菌劑
+Trifloxystrobin,三氟敏,茶籽,0.05,殺菌劑
+Trifloxystrobin,三氟敏,茶類,1.0,殺菌劑
 Trifloxystrobin,三氟敏,草莓,1.0,殺菌劑
 Trifloxystrobin,三氟敏,荔枝 ,0.5,殺菌劑
 Trifloxystrobin,三氟敏,豇豆(乾),0.05,殺菌劑
@@ -1084,14 +1200,18 @@ Trifloxystrobin,三氟敏,無花果,1.0,殺菌劑
 Trifloxystrobin,三氟敏,番石榴,1.0,殺菌劑
 Trifloxystrobin,三氟敏,番茄,0.5,殺菌劑
 Trifloxystrobin,三氟敏,番荔枝 ,0.5,殺菌劑
+Trifloxystrobin,三氟敏,結球萵苣,5.0,殺菌劑
 Trifloxystrobin,三氟敏,絲瓜,0.2,殺菌劑
+Trifloxystrobin,三氟敏,菊花,0.3,殺菌劑
 Trifloxystrobin,三氟敏,萊姆,0.5,殺菌劑
 Trifloxystrobin,三氟敏,越瓜,0.2,殺菌劑
+Trifloxystrobin,三氟敏,黑皮波羅門參,0.1,殺菌劑
 Trifloxystrobin,三氟敏,大豆,0.05,殺菌劑
 Trifloxystrobin,三氟敏,楊桃,1.0,殺菌劑
 Trifloxystrobin,三氟敏,葡萄,2.0,殺菌劑
 Trifloxystrobin,三氟敏,葡萄(乾),5.0,殺菌劑
 Trifloxystrobin,三氟敏,葡萄柚,0.5,殺菌劑
+Trifloxystrobin,三氟敏,葵花籽,0.05,殺菌劑
 Trifloxystrobin,三氟敏,酪梨,0.5,殺菌劑
 Trifloxystrobin,三氟敏,碧玉筍,0.02,殺菌劑
 Trifloxystrobin,三氟敏,精製橄欖油,1.2,殺菌劑
@@ -1108,6 +1228,7 @@ Trifloxystrobin,三氟敏,龍眼 ,0.5,殺菌劑
 Trifloxystrobin,三氟敏,蕎頭,0.02,殺菌劑
 Trifloxystrobin,三氟敏,蕗蕎,2.0,殺菌劑
 Trifloxystrobin,三氟敏,檸檬,0.5,殺菌劑
+Trifloxystrobin,三氟敏,蟛蜞菊,0.3,殺菌劑
 Trifloxystrobin,三氟敏,蘆筍,0.05,殺菌劑
 Trifloxystrobin,三氟敏,蘋果,0.7,殺菌劑
 Trifloxystrobin,三氟敏,櫻桃,3.0,殺菌劑
